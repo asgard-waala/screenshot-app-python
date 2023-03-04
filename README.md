@@ -8,5 +8,5 @@
 ### Issues:
 
 - When the GUI opens, it takes a screenshot of itself along with the page.
-- The naming convention for ==.png== files is built on `time` module, but I wanted to make it on `datetime` like **DDMMYYYY-HHMMSS**.
+- The naming convention for `.png` files is built on `time` module, but I wanted to make it on `datetime` like **DDMMYYYY-HHMMSS**.
 
